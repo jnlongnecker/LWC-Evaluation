@@ -14,7 +14,7 @@ export default class ContactDisplay extends LightningElement {
     context;
 
     connectedCallback() {
-        this.subscription = subscribe( this.context, contactChannel, (message) => receiveContactMessage(message));
+        this.subscription = subscribe( this.context, contactChannel, (message) => this.receiveContactMessage(message));
     }
 
     disconnectedCallback() {
