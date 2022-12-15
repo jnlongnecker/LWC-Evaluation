@@ -18,3 +18,7 @@ United Solar is interested in creating a new app for their Salesforce environmen
 - You'll find feedback in the README to your branch once I've gone over it.
 
 Be sure to ask me if you have any questions or need to make any clarifications to the scenario or instructions above.
+
+## Example Result
+
+<img src="./pictures/example.png />
