@@ -21,4 +21,4 @@ Be sure to ask me if you have any questions or need to make any clarifications t
 
 ## Example Result
 
-<img src="./pictures/example.png />
+<img src="./pictures/example.png" />
